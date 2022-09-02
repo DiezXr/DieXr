@@ -16,11 +16,33 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+[![website](./img/globe-light.svg)](https://DieZ.com#gh-light-mode-only)
 
-<a href="https://instagram.com/haku.xr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haku.xr" height="30" width="40" /></a>
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 
-<a href="https://www.youtube.com/c/diez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="diez" height="30" width="40" /></a>
+&nbsp;&nbsp;
+
+[![website](./img/youtube-light.svg)](https://youtube.com/DieZ#gh-light-mode-only)
+
+[![website](./img/youtube-dark.svg)](https://youtube.com/DieZ#gh-dark-mode-only)
+
+&nbsp;&nbsp;
+
+[![website](./img/twitter-light.svg)](https://twitter.com/DieZ#gh-light-mode-only)
+
+[![website](./img/twitter-dark.svg)](https://twitter.com/DieZ#gh-dark-mode-only)
+
+&nbsp;&nbsp;
+
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/DieZ#gh-light-mode-only)
+
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/DieZ#gh-dark-mode-only)
+
+&nbsp;&nbsp;
+
+[![website](./img/instagram-light.svg)](https://instagram.com/haku.xr#gh-light-mode-only)
+
+[![website](./img/instagram-dark.svg)](https://instagram.com/haku.xr#gh-dark-mode-only)
 
 </p>
 
